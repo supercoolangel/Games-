@@ -1,3 +1,1 @@
-# Games-
-Beginner Phyton Games
-Hi! I'm Angel and on this acount I'll be sharing easy phyton games and programs to make . I'll share tutorials and begginer level phyton code to write.And all the games instructions will be here .   
+Hi! I'm Angel and on this acount I'll be sharing easy phyton games and programs to make . I'll share tutorials and begginer level phyton code to write.And all the games instructions will be here.All of these games are based on begginer steps , and not too complicated . But try to make the code more shorter and sophisacated if you can !
